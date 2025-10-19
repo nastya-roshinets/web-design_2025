@@ -1,3 +1,4 @@
+#Project structure
 /perfect_hair
 ├── .husky/                  
 ├── node_modules/
