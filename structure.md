@@ -1,3 +1,4 @@
+#Project structure
 /perfect_hair
 ├── .husky/                  
 ├── node_modules/
@@ -36,3 +37,4 @@
     │   └── validationRules.js
     ├── main.jsx             
     └── App.jsx              
+    
